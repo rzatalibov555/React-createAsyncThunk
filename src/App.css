@@ -1,0 +1,10 @@
+.todo{
+    width: 300px;
+    min-height: 300px;
+    background: rgb(18, 0, 15);
+    color: white;
+    float: left;
+    margin: 5px;
+    padding: 20px;
+    box-sizing: border-box;
+}
